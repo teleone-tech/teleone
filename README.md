@@ -1,5 +1,5 @@
 # TELEONE
-什么是TELEONE：TELEONE是一个集成多账号，md/html消息，用户群组采集，批量拉人，自动群聊，群发建群，批量注册，耍阅读量，养号，筛活，动态代理的网络营销工具。
+什么是TELEONE：TELEONE是一个集成多账号，支持发送md/html消息，群组用户采集，批量拉人，自动群聊，群发建群，批量注册，刷消息阅读量，养号，账号筛活，并支持动态代理的TG(telgrame)网络营销工具。
 
 ![软件主界面](https://github.com/teleone-tech/teleone/blob/main/home.jpg?raw=true)
 

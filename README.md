@@ -43,5 +43,5 @@
  * ❗️本软件支持最新URL格式
 
 
-🌐官网: http://teleone.tech
+🌐官网: https://teleone.tech
 🛒购买/下载，请加入频道：https://t.me/teleone_tech
